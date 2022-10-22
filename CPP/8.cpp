@@ -1,5 +1,6 @@
 vector<string> Solution::prettyJSON(string A) {
     vector<string> v;
+    
     int q=0;
     for(int i=0; i<A.size(); i++)
     {
