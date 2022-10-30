@@ -15,7 +15,6 @@ string isPalindrome(string str)
 		return "It is not a palindrome";
 	}
 }
-
 int main()
 {
 	string str = "ABCDCBA";
