@@ -14,8 +14,6 @@ void func(vector<int> n, vector<vector<int>> &s, int l, int r)
         swap(n[l],n[i]);
     }
 }
-
-
 class Solution {
 public:
     vector<vector<int>> permute(vector<int>& nums) {
