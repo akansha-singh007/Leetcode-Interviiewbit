@@ -115,6 +115,7 @@ private:
 //             q->next=net;
 //         }
 //         m=reverseList( m, a );
+//         return a;
 //         return m;
 //     }
 // };
