@@ -17,7 +17,7 @@ string isPalindrome(string str)
 }
 int main()
 {
-	string str = "ABCDCBA";
+	string str = "SGHJDG";
     //String that is checked to be a palindrome
 	cout << isPalindrome(str);
 
