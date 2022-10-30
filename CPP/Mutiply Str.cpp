@@ -25,7 +25,6 @@ string Solution::multiply(string A, string B)
             y=y%10;
             
             s[k]=y+'0';
-            
             k++;
         }
         // cout<<k<<" ";
