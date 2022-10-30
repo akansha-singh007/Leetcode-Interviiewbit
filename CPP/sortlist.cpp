@@ -73,7 +73,6 @@ void MergeSort(ListNode** headRef)
     /* answer = merge the two sorted lists together */
     *headRef = merge(a, b); 
 } 
-
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
